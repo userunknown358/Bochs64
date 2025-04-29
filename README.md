@@ -1,6 +1,10 @@
 # Bochs64
 Bochs Emulator Android with x64 support
 
+**What will only change is the BIOS that Bochs will use in their later versions**
+
+I DO NOT OWN ANY ASSETS!
+
 NOTE:
 If you want to import a VM you have previously created, MAKE SURE YOU HAVE CREATED THE VM while using the i440fx chipset. Else it won't work
 
